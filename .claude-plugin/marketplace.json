@@ -1,0 +1,15 @@
+{
+  "name": "magicuidesign",
+  "description": "Magic UI's agent skill, packaged as a Claude plugin. Fork: Sudo-Dev-Mavs/magicui.",
+  "owner": {
+    "name": "Sudo-Dev-Mavs"
+  },
+  "plugins": [
+    {
+      "name": "magic-ui",
+      "source": "./",
+      "description": "Add, customize and troubleshoot Magic UI components (shadcn registry @magicui/*) in React and Next.js projects.",
+      "category": "Design"
+    }
+  ]
+}
