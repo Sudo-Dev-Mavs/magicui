@@ -1,0 +1,13 @@
+{
+  "name": "magic-ui",
+  "version": "1.0.0",
+  "description": "Add, customize and troubleshoot Magic UI components (shadcn registry @magicui/*) in React and Next.js projects: component selection, installation, integration patterns and quality checks.",
+  "author": {
+    "name": "Magic UI",
+    "url": "https://magicui.design"
+  },
+  "homepage": "https://magicui.design",
+  "repository": "https://github.com/Sudo-Dev-Mavs/magicui",
+  "license": "MIT",
+  "keywords": ["magic-ui", "shadcn", "react", "nextjs", "tailwind", "components", "animation"]
+}
